@@ -1,0 +1,19 @@
+{
+  "id": "shirt-001",
+  "name": "Casual Button-Up Shirt",
+  "category": "tops",
+  "subcategory": "shirts",
+  "brand": "ClassicStyle",
+  "description": "A versatile button-up shirt",
+  "image_filename": "image.png",
+  "size_chart": {
+    "XS": {"shoulder_width_cm": 36.0, "chest_circumference_cm": 80.0, "torso_length_cm": 60.0},
+    "S": {"shoulder_width_cm": 38.0, "chest_circumference_cm": 85.0, "torso_length_cm": 63.0},
+    "M": {"shoulder_width_cm": 41.0, "chest_circumference_cm": 90.0, "torso_length_cm": 66.0},
+    "L": {"shoulder_width_cm": 44.0, "chest_circumference_cm": 95.0, "torso_length_cm": 69.0},
+    "XL": {"shoulder_width_cm": 47.0, "chest_circumference_cm": 100.0, "torso_length_cm": 72.0}
+  },
+  "material": "100% Cotton",
+  "price_usd": 49.99,
+  "available_colors": ["white", "light-blue", "navy"]
+}

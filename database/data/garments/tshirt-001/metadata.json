@@ -1,0 +1,19 @@
+{
+  "id": "tshirt-001",
+  "name": "Classic White T-Shirt",
+  "category": "tops",
+  "subcategory": "t-shirts",
+  "brand": "BasicWear",
+  "description": "A classic white t-shirt",
+  "image_filename": "image.png",
+  "size_chart": {
+    "XS": {"shoulder_width_cm": 35.0, "chest_circumference_cm": 75.0, "torso_length_cm": 55.0},
+    "S": {"shoulder_width_cm": 37.0, "chest_circumference_cm": 80.0, "torso_length_cm": 58.0},
+    "M": {"shoulder_width_cm": 40.0, "chest_circumference_cm": 85.0, "torso_length_cm": 61.0},
+    "L": {"shoulder_width_cm": 43.0, "chest_circumference_cm": 90.0, "torso_length_cm": 64.0},
+    "XL": {"shoulder_width_cm": 46.0, "chest_circumference_cm": 95.0, "torso_length_cm": 67.0}
+  },
+  "material": "100% Cotton",
+  "price_usd": 19.99,
+  "available_colors": ["white", "black", "gray"]
+}
